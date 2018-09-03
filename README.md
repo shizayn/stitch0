@@ -1,2 +1,3 @@
 # stitch0
-stitch stat grab
+stitch integration testing
+extract data + load
